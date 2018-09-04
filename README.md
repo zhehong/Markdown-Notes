@@ -22,6 +22,9 @@ This is
 a block
 of code
 ```
+'''
+How does this look like
+'''
 
 Here is how you make [a link](https://www.wikipedia.org/).
 
